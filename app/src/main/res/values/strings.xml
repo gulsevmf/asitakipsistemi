@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testFirebase</string>
+    <array name="genre">
+        <item>yurt</item>
+        <item>okul</item>
+        <item>tershane</item>
+    </array>
+</resources>
